@@ -1,5 +1,8 @@
 _repo: Wee-Ones-Bible-Stories_11241
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11241#Wee-Ones-Bible-Stories
 gutenberg_bookshelf:
 - Christianity
 - Children's Religion
